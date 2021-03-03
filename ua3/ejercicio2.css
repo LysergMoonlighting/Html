@@ -1,0 +1,61 @@
+#titulo {
+
+	color: #0da2dd;
+}
+#subtitulo{
+	color: blue;
+}
+.seccion {
+	text-align: justify;
+}
+
+p strong {
+ 
+	color: red;
+}
+.destacado {
+
+	color: gold;
+}
+.seccion a
+{
+	color : red;
+	text-decoration: underline;
+}
+a em{
+	color: blue;
+}
+p .especial{
+	color :purple;
+}
+table{
+	border: 1px solid black;
+}
+caption{
+	color:blue;
+	text-align: center;
+}
+th{
+	color:red;
+	border: 1px solid black;
+}
+.especial{
+	color: gold;
+}
+td{
+	color: green;
+	border: 1px solid black;
+}
+td strong{
+	color: gold;
+
+}
+#adicional{
+	color: rgb(165, 184, 27);
+}
+#adicional #especial{
+	color:pink;
+}
+#adicional a{
+	color: green;
+}
