@@ -37,6 +37,7 @@
           <a class="dropdown-item" href="../ua3/ejerciciomargen3.php">Tarea 2.3 - Ejercicios de margin, padding y bordes</a>
           <a class="dropdown-item" href="../ua3/modeladocajas1.php">Tarea 3.1 - Modelo de cajas y textos</a>
           <a class="dropdown-item" href="../ua3/modeladocajas2.php">Tarea 3.2 - Modelo de cajas y textos</a>
+          <a class="dropdown-item" href="../curriculum/curriculum.php">curriculum</a>
       </li>
       
       <li class="nav-item">    
