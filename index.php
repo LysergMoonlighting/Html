@@ -9,7 +9,7 @@
     
   
     <div id="texto" class="seccion">
-    <h2>Página de Examen Jose Manuel Almagro Dominguez. 1º DAM</h2>
+    <h2>Página de Jose Manuel Almagro Dominguez. 1º DAM</h2>
     </div>  
   
   </body>

@@ -1,0 +1,37 @@
+#primero{
+	color: #2d6921;
+	border-width: 3px;
+	border-style: dotted;
+	border-color: #d66f0f;
+	font-weight: bold;
+	padding: 20px;
+	width: 500px;
+	text-align: right;
+	margin-bottom: 100px;  
+}
+#segundo{
+	border-width: 3px;
+	border-style: solid;
+	border-color: blue;
+	width: 500px;
+	text-align: center;
+	padding: 50px;
+	position: relative;
+	left: 40%;
+	text-align: justify;
+}
+#tercero{
+	width: 30%;
+	border-width: 6px;
+	border-style: outset;
+	border-color: #666;
+	padding: 10px;
+	text-align: justify;
+	line-height: 30px;
+}
+#cuarto{
+	width: 75%;
+	border-top-style: solid; 
+	border-top-width: 3px; 
+	border-color:  #f0377b;
+}

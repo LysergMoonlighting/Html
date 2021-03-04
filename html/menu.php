@@ -33,6 +33,10 @@
           <a class="dropdown-item" href="../ua3/ejercicio2.php">Tarea 1.2 - selectores</a>
           <a class="dropdown-item" href="../ua3/ejercicio3.php">Tarea 1.3 - selectores</a>
           <a class="dropdown-item" href="../ua3/ejerciciomargen1.php">Tarea 2.1 - Ejercicios de margin, padding y bordes</a>
+          <a class="dropdown-item" href="../ua3/ejerciciomargen2.php">Tarea 2.2 - Ejercicios de margin, padding y bordes</a>
+          <a class="dropdown-item" href="../ua3/ejerciciomargen3.php">Tarea 2.3 - Ejercicios de margin, padding y bordes</a>
+          <a class="dropdown-item" href="../ua3/modeladocajas1.php">Tarea 3.1 - Modelo de cajas y textos</a>
+          <a class="dropdown-item" href="../ua3/modeladocajas2.php">Tarea 3.2 - Modelo de cajas y textos</a>
       </li>
       
       <li class="nav-item">    
@@ -42,3 +46,4 @@
    
   </div>
 </nav>
+Modelo de cajas y textos
