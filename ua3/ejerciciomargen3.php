@@ -7,7 +7,9 @@
         <title>Lorem ipsum</title>
 </head>
 <body>
-<div id="texto" class="seccion">
+<div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
 <div id="contenedor">
 
 <div id="cabecera">
@@ -112,6 +114,8 @@ Buscar &nbsp; <input name="busqueda" type="text" />
 </div>
 
 </div>
+
+<?php include("../html/footer.php")?>
 </div>
 </body>
 </html>

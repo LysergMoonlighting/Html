@@ -5,9 +5,9 @@
         <?php include("../html/menu.php")?>
 	</head>
   <body>
-   
-    
-    <div id="texto" class="seccion">
+   <div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
     <div class="embed-responsive embed-responsive-16by9">
     <iframe width="853" position="center" height="480" src="https://www.youtube.com/embed/_McZY4SH6-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
     </div>

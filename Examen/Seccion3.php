@@ -7,7 +7,9 @@
     <?php include("../html/menu.php")?>
 	</head>
   <body>
-    <div id="seccion3" class="seccion">
+  <div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
       <h2>¿Quienes somos?</h2>
         <p>Somos una empresa dedicada a la creacion de aplicaciones .
          Nuestro principal objetivo es crear apps para otras empresas facilitando la gestion de estas

@@ -8,7 +8,9 @@
     <link rel="stylesheet" type="text/css" href="ejercicio3.css">
 </head>
 <body>
-<div id="texto" class="seccion">
+<div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
 <h1>CES Lope de Vega</h1>
 
 <ul>
@@ -17,6 +19,8 @@
 <li><a href="">Desarrollo de Interfaces</a></li>
 <li><a href="">Entornos de Desarrollo</a></li>
 </ul>
+
+<?php include("../html/footer.php")?>
 </div>
 </body>
 </html>

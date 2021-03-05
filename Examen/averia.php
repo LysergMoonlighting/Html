@@ -5,7 +5,9 @@
     <?php include("../html/menu.php")?>
 	</head>
   <body>
-    <div id="texto" class="seccion">
+  <div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
     <form action="/action_page.php">
 
     <label for="fname">Nombre</label>

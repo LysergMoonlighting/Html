@@ -9,7 +9,9 @@
 </head>
 
 <body>
-<div id="texto" class="seccion">
+<div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div class="container bg-light p-3">
 <h1 id="titulo">Lorem ipsum dolor sit amet</h1>
 
 <p>Nulla pretium. Sed tempus nunc vitae neque. <strong>Suspendisse gravida</strong>, metus a scelerisque sollicitudin, lacus velit
@@ -61,6 +63,8 @@ posuere id, lorem. Etiam sagittis, tellus in ultrices accumsan, diam nisi feugia
 <p>Vivamus ultrices aliquet augue. <a href="#">Donec arcu pede, pretium vitae</a>, rutrum aliquet, tincidunt blandit, pede.
 Aliquam in nisi. Suspendisse volutpat. Nulla facilisi. Ut ullamcorper nisi quis mi.</p>
 </div>
+
+<?php include("../html/footer.php")?>
 </div>
 </body>
 </html>

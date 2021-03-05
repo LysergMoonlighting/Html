@@ -4,8 +4,10 @@
     <?php include("../html/meta.php")?>
     <?php include("../html/menu.php")?>
 	</head>
-  <body>
-    <div id="texto" class="seccion">
+  <body >
+  <div class="pt-3 pb-4 my-4 ">
+    </div>
+  <div class="container bg-light p-3">
     <table class="table table-dark">
     <thead>
       <tr>

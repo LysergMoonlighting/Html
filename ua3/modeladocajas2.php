@@ -12,8 +12,9 @@
     <link rel="stylesheet" type="text/css" href="modeladocajas2.css">
 	</head>
   <body>
-    
-  <div id="texto" class="seccion">
+  <div class="pt-3 pb-4 my-4 ">
+    </div>
+    <div id="cajas" class="container bg-light p-3">
 <h1>HTML &amp; CSS: Curso práctico avanzado</h1>
 
 <h2>Datos del libro</h2>
@@ -56,7 +57,10 @@ El contenido de este libro se estructura en tres apartados bien diferenciados:
 <li>En la tercera y última parte se explica CSS, el lenguaje que se emplea para definir el formato y la presentación de una página web. Se explica cómo utilizar el color, cómo definir la presentación del texto, de las tablas y de los formularios; cómo realizar transformaciones y transiciones con el fin de diseñar una página web.</li>
 </ul>
   
-</div>     
-  
+    
+
+<?php include("../html/footer.php")?>
+</div>
 </body>
+
 </html>

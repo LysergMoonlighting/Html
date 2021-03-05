@@ -12,9 +12,7 @@
             <div class="collapse navbar-collapse center-content-end" id="navigation">
               
               <ul class="navbar-nav">
-              <li class="nav-item active">
-        <a class="nav-link" href="../index.php"><i class="fa fa-home fa-2x " aria-hidden="true"></i> <span class="sr-only">(current)</span></a>
-      </li>
+              
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Examen 1º trimestre
@@ -44,13 +42,14 @@
           <a class="dropdown-item" href="../ua3/modeladocajas2.php">Tarea 3.2 - Modelo de cajas y textos</a>
           <a class="dropdown-item" href="../curriculum/curriculum.php">curriculum</a>
       </li>
-                
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">Sobre mi</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Habilidades</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experienciae</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#studys">Estudios</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">contacto</a></li>
               </ul>
             </div>
           </div>
         </nav>
       </div>
-      
-
-  
-
