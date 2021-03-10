@@ -26,3 +26,14 @@ body {
  overflow: auto;
 }
 
+.zoom:hover {
+	transform: scale(1.1);	
+	background-color: rgb(105, 105, 105);	
+	color:#333;
+  }
+  .zoomimpar:hover {
+	transform: scale(1.1);	
+	background-color: rgb(105, 105, 105);		
+	color:#333;
+	text-shadow: 5px 5px #3b3b3b77;
+  }
