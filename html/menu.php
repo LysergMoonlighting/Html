@@ -43,7 +43,8 @@
           <a class="dropdown-item" href="../ua3/modeladocajas1.php">Tarea 3.1 - Modelo de cajas y textos</a>
           <a class="dropdown-item" href="../ua3/modeladocajas2.php">Tarea 3.2 - Modelo de cajas y textos</a>
           <a class="dropdown-item" href="../ua3/tablas.php">Tarea 5.1 - Tablas</a>
-          <a class="dropdown-item" href="../index.php">Tarea 4.1- Curriculum <br> Tarea 6.1 - Formulario </br> Tarea 9.1- Galeria de fotos</a>
+          <a class="dropdown-item" href="../index.php">Tarea 4.1- Curriculum <br> Tarea 6.1 - Formulario<br> Tarea 7.1 - layout y plantillas</br> Tarea 9.1- Galeria de fotos</a>
+      
       </li>
                 
               </ul>
