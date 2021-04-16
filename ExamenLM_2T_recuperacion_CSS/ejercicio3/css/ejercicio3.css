@@ -1,0 +1,58 @@
+
+.exterior{
+    background-color: rgb(240, 65, 65);
+    padding: 1%;
+}
+.contenido{
+    background-color: rgb(248, 173, 138);
+    padding: 1%;
+    margin:0.5%;
+    height: auto;
+    width: auto;
+    
+}
+h1{
+    border-style: solid;
+    
+}
+.bigcontent{
+    padding: 1%;
+    margin:1%;
+    background-color: rgb(240, 65, 65);
+    height: auto;
+    width: auto;
+}
+.subcontent{
+    background-color: rgb(240, 65, 65);
+    margin:2%;
+    padding-bottom: 0.5%;
+    height: auto;
+    width: auto;
+}
+
+.pie p{
+    font-size: 50%;
+}
+h2,p{
+    color: white;
+}
+.img1{
+    border-color: rgb(250, 1, 1);
+border-style: solid;
+float: left;
+
+}
+.img2{
+    border-color: rgb(243, 2, 2);
+border-style: solid;
+float: right;
+
+}
+.img3{
+    background-color: white;
+    border-color: rgb(238, 7, 7);
+border-style: solid;
+float: right;
+
+
+}
